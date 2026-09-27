@@ -78,8 +78,10 @@ public class Carlos {
 </p>
 
 
+<p align="center">
+  <img src="./metrics.svg" alt="GitHub metrics" />
+</p>
 
-[![](https://github-readme-stats.vercel.app/api?username=carlos1313-dev&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/carlos1313-dev)
 [![](https://streak-stats.demolab.com/?user=carlos1313-dev&theme=material-palenight)](https://github.com/carlos1313-dev)
 
 

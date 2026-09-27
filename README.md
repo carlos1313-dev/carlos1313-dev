@@ -70,8 +70,7 @@ public class Carlos {
 
 
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
+  <img src="https://raw.githubusercontent.com/carlos1313-dev/carlos1313-dev/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 

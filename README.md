@@ -14,6 +14,38 @@
 
 ## 📁 About Me
 
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+```java
+public class Carlos {
+    private String role        = "Backend Developer";
+    private String education   = "Systems Engineering"; // in progress
+
+    private String[] experience = {
+        "Design and development of robust backend systems",
+        "Participation in system & database design",
+        "CI/CD pipeline implementation",
+        "Automated testing & clean code practices",
+        "Application security (JWT, static code analysis)"
+    };
+
+    public void currentFocus() {
+        System.out.println("Building scalable, production-ready systems.");
+    }
+}
+```
+
+</td>
+<td width="40%" align="center">
+  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif" width="100%">
+</td>
+</tr>
+</table>
+
+
 ```java
 public class Carlos {
     private String role = "Backend Developer";
@@ -78,11 +110,9 @@ public class Carlos {
 </p>
 
 
-<p align="center">
-  <img src="./metrics.svg" alt="GitHub metrics" />
-</p>
 
 [![](https://streak-stats.demolab.com/?user=carlos1313-dev&theme=material-palenight)](https://github.com/carlos1313-dev)
+
 
 
 

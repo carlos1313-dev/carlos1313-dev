@@ -32,6 +32,11 @@ public class Carlos {
         "Application security (JWT, static code analysis)"
     };
 
+    private Map<String, String> languages = Map.of(
+        "Spanish", "Native",
+        "English", "Advanced"
+    );
+
     public void currentFocus() {
         System.out.println("Building scalable, production-ready systems.");
     }
